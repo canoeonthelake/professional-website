@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Research"
 author: "Jessie McLean"
 date: "05/07/2024"
 output: html_document
@@ -9,4 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi! I'm Jessie.
+
+This is where I'll share what I'm working on
+
+
