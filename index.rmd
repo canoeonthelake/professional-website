@@ -9,4 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi! I'm Jessie.
+Hi! I'm Jessie. I've recently graduated from the University of Oxford with an MBiol Biology degree. My 4th year integrated Masters project was on using LiDAR scans to track and model the growth and survival of Picea mariana (black spruce) in the boreal forest of Alaska. 
+
+This project has really sparked my interests in the uses of remote sensing data to inform conservation. In particular, observing how large scale disturbances are affected our forests worldwide, like fire, drought and land use change. 
